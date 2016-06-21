@@ -36,7 +36,7 @@ var Person = t.struct({
 
 const options = {};
 
-var ReactNativeAuth = React.createClass({
+var AwesomeProject = React.createClass({
 
   async _onValueChange(item, selectedValue) {
     try {
@@ -239,4 +239,4 @@ var styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('ReactNativeAuth', () => ReactNativeAuth);
+AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
