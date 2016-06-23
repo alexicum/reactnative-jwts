@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeAndJWTs'
+
+include ':app'
